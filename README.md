@@ -7,7 +7,13 @@
 
 ![image](https://github.com/polamaxu/InkAI/assets/107613397/a767f9fe-9b31-4561-9095-f27f4bdb81ca)
 
-2.Run painter.py
+
+
+2.Install Umi-OCR.exe
+
+
+
+3.Run painter.py
 
 Reference:
 
